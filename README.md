@@ -1,4 +1,4 @@
-# wallpaper-dotfiles
+# ma fav wallpapers
 
 My favorite wallpapers to use. They are pretty cool, and some use the Nord colorscheme.
 
